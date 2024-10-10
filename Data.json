@@ -1,7 +1,14 @@
 {
     "CoasterBot": {
         "UserId": 282663556,
-        "IconId": "LifeTime",
+        "IconId": 137286087856104,
+        "Paid": "LifeTime",
+        "StartTime": "10/09/24"
+    },
+
+    "spector": {
+        "UserId": 1546292748,
+        "IconId": 137286087856104,
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
     }

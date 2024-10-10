@@ -1,10 +1,10 @@
 {
     "Node1": {
         "Sttus": "Online",
-        "Bots": 100
+        "Bots": 5
     },
     "Node2": {
         "Sttus": "Offline",
-        "Bots": 100
+        "Bots": 0
     }
 }

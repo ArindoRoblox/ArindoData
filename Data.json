@@ -1,8 +1,8 @@
 {
-    "CoasterBot": {
+    "Arindo": {
         "UserId": 282663556,
-        "IconId": 137286087856104,
-        "BotId": 1,
+        "IconId": 129973383233324,
+        "BotId": 2,
         "Node": 1,
         "Status": "Online",
         "Token": true,
@@ -10,12 +10,23 @@
         "StartTime": "10/09/24"
     },
 
-    "Arindo": {
+    "ArindoHosting": {
         "UserId": 282663556,
-        "IconId": 137286087856104,
+        "IconId": 140129469657940,
         "BotId": 2,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
+        "Token": false,
+        "Paid": "LifeTime",
+        "StartTime": "10/09/24"
+    },
+
+    "CoasterBot": {
+        "UserId": 282663556,
+        "IconId": 105248139246815,
+        "BotId": 1,
+        "Node": 1,
+        "Status": "Offline",
         "Token": true,
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
@@ -26,7 +37,7 @@
         "IconId": 137286087856104,
         "BotId": 3,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Token": true,
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
@@ -37,7 +48,7 @@
         "IconId": 137286087856104,
         "BotId": 4,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Token": true,
         "Paid": "LifeTime",
         "StartTime": "10/09/24"

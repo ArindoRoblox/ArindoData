@@ -1,4 +1,15 @@
 {
+    "ArindoHosting": {
+        "UserId": 282663556,
+        "IconId": 140129469657940,
+        "BotId": 1,
+        "Node": 1,
+        "Status": "Offline",
+        "Token": false,
+        "Paid": "LifeTime",
+        "StartTime": "10/09/24"
+    },
+
     "Arindo": {
         "UserId": 282663556,
         "IconId": 129973383233324,
@@ -10,21 +21,11 @@
         "StartTime": "10/09/24"
     },
 
-    "ArindoHosting": {
-        "UserId": 282663556,
-        "IconId": 140129469657940,
-        "BotId": 2,
-        "Node": 1,
-        "Status": "Offline",
-        "Token": false,
-        "Paid": "LifeTime",
-        "StartTime": "10/09/24"
-    },
 
     "CoasterBot": {
         "UserId": 282663556,
         "IconId": 105248139246815,
-        "BotId": 1,
+        "BotId": 3,
         "Node": 1,
         "Status": "Offline",
         "Token": true,
@@ -35,7 +36,7 @@
     "FileVendor": {
         "UserId": 282663556,
         "IconId": 137286087856104,
-        "BotId": 3,
+        "BotId": 4,
         "Node": 1,
         "Status": "Offline",
         "Token": true,
@@ -46,7 +47,7 @@
     "UniversalDestinations": {
         "UserId": 282663556,
         "IconId": 137286087856104,
-        "BotId": 4,
+        "BotId": 5,
         "Node": 1,
         "Status": "Offline",
         "Token": true,
@@ -57,7 +58,7 @@
     "spector": {
         "UserId": 1546292748,
         "IconId": 137286087856104,
-        "BotId": 5,
+        "BotId": 6,
         "Node": 1,
         "Status": "Offline",
         "Token": false,

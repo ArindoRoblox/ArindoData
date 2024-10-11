@@ -10,9 +10,5 @@
     "Node3": {
         "Status": "Offline",
         "Bots": 0
-    },
-    "Node4": {
-        "Status": "Offline",
-        "Bots": 0
     }
 }

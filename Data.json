@@ -4,7 +4,7 @@
         "IconId": 137286087856104,
         "BotId": 1,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
     },
@@ -14,7 +14,7 @@
         "IconId": 137286087856104,
         "BotId": 2,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
     },
@@ -24,7 +24,7 @@
         "IconId": 137286087856104,
         "BotId": 3,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
     },
@@ -34,7 +34,7 @@
         "IconId": 137286087856104,
         "BotId": 4,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
     },
@@ -44,7 +44,7 @@
         "IconId": 137286087856104,
         "BotId": 5,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Paid": "LifeTime",
         "StartTime": "10/09/24"
     }

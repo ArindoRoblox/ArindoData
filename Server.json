@@ -1,7 +1,7 @@
 {
     "Node1": {
         "Status": "Online",
-        "Bots": 6
+        "Bots": 7
     },
     "Node2": {
         "Status": "Offline",

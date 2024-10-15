@@ -23,7 +23,7 @@
         "IconId": 129973383233324,
         "BotId": 2,
         "Node": 1,
-        "Status": "Online",
+        "Status": "Offline",
         "Token": true,
         "ServerManagement": true,
         "ServerManagementEnabled": false,

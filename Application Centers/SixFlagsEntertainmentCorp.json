@@ -1,9 +1,16 @@
 {
+    "Applications": {
+        "Ride Operator Application": {
+        "UserId": 282663556,
+        "Status": "Accepted",
+        "Accepter": "Akramer2k"
+        }
+    },
+
     "Feed": {
         "Ride Operator Application": {
-        "UserId": 123456789,
-        "Title": "hi",
-        "Dec": "Skib"
+        "UserId": 282663556,
+        "Dec": "Ride Operator Applications is opened! Head over to Ranks To send your application today!"
         }
     }
 }

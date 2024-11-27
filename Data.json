@@ -15,8 +15,8 @@
         "ModMailSystem": true,
         "ModMailSystemEnabled": false,
         "Paid": "LifeTime",
-        "PaymentPaid": "8/11/24",
-        "StartTime": "10/09/24"
+        "PaymentPaid": "08/11/24",
+        "StartTime": "08/11/24"
     },
 
     "Arindo": {
@@ -35,10 +35,9 @@
         "ModMailSystem": true,
         "ModMailSystemEnabled": false,
         "Paid": "LifeTime",
-        "PaymentPaid": "8/11/24",
-        "StartTime": "10/09/24"
+        "PaymentPaid": "08/11/24",
+        "StartTime": "08/11/24"
     },
-
 
     "CoasterBot": {
         "UserId": 282663556,
@@ -56,7 +55,27 @@
         "ModMailSystem": true,
         "ModMailSystemEnabled": false,
         "Paid": "LifeTime",
-        "PaymentPaid": "8/11/24",
-        "StartTime": "10/09/24"
+        "PaymentPaid": "08/11/24",
+        "StartTime": "08/11/24"
+    },
+
+    "UniversalDestinations": {
+        "UserId": 282663556,
+        "IconId": 137286087856104,
+        "BotId": 3,
+        "Node": 1,
+        "Status": "Offline",
+        "Token": true,
+        "ServerManagement": true,
+        "ServerManagementEnabled": false,
+        "RobloxGroupManagement": true,
+        "RobloxGroupManagementEnabled": false,
+        "GiveawaySystem": true,
+        "GiveawaySystemEnabled": false,
+        "ModMailSystem": true,
+        "ModMailSystemEnabled": false,
+        "Paid": "LifeTime",
+        "PaymentPaid": "11/27/24",
+        "StartTime": "11/27/24"
     }
 }

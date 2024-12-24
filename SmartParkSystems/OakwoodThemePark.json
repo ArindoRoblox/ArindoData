@@ -4,28 +4,49 @@
             "UserId": 282663556,
             "GroupRank": "Developer",
             "Rides": {
-                "RideName1": {
+                "Speed": {
                     "Signins": 0,
                     "Dispatches": 0,
                     "Riders": 0,
                     "Faults": 0,
                     "Time": 0
                 },
-                "RideName2": {
+                "Megafobia": {
                     "Signins": 0,
                     "Dispatches": 0,
                     "Riders": 0,
                     "Faults": 0,
                     "Time": 0
                 },
-                "RideName3": {
+                "Drenched": {
                     "Signins": 0,
                     "Dispatches": 0,
                     "Riders": 0,
                     "Faults": 0,
                     "Time": 0
                 },
-                "RideName4": {
+                "Waterfall": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bounce ": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bobsleigh": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Dizzy Disk": {
                     "Signins": 0,
                     "Dispatches": 0,
                     "Riders": 0,

@@ -1,4 +1,11 @@
 {
+    "Rides": {
+        "RideName1": {},
+        "RideName2": {},
+        "RideName3": {},
+        "RideName4": {}
+    },
+
     "StaffMembers": {
         "akramer2k": {
             "UserId": 282663556,

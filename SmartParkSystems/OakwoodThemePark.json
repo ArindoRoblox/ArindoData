@@ -1,4 +1,14 @@
 {
+    "Rides": {
+        "Speed": {},
+        "Megafobia": {},
+        "Drenched": {},
+        "Waterfall": {},
+        "Bounce": {},
+        "Bobsleigh": {},
+        "Dizzy Disk": {}
+    },
+
     "StaffMembers": {
         "akramer2k": {
             "UserId": 282663556,
@@ -32,7 +42,7 @@
                     "Faults": 0,
                     "Time": 0
                 },
-                "Bounce ": {
+                "Bounce": {
                     "Signins": 0,
                     "Dispatches": 0,
                     "Riders": 0,

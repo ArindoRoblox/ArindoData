@@ -10,27 +10,6 @@
                     "Riders": 0,
                     "Faults": 0,
                     "Time": 0
-                },
-                "RideName2": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName3": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName4": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
                 }
             }
         }

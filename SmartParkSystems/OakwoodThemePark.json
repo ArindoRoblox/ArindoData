@@ -54,6 +54,281 @@
                     "Time": 0
                 }
             }
+        },
+        "JensonGold": {
+            "UserId": 390279725,
+            "GroupRank": "Owner",
+            "Rides": {
+                "Speed": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Megafobia": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Drenched": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Waterfall": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bounce ": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bobsleigh": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Dizzy Disk": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                }
+            }
+        },
+        "DJboy8905": {
+            "UserId": 482154047,
+            "GroupRank": "Co-Owner",
+            "Rides": {
+                "Speed": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Megafobia": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Drenched": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Waterfall": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bounce ": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bobsleigh": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Dizzy Disk": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                }
+            }
+        },
+        "TyReiss23": {
+            "UserId": 763090884,
+            "GroupRank": "Developer",
+            "Rides": {
+                "Speed": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Megafobia": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Drenched": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Waterfall": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bounce ": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bobsleigh": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Dizzy Disk": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                }
+            }
+        },
+        "12bbethangamertv": {
+            "UserId": 1541596280,
+            "GroupRank": "Maintenance",
+            "Rides": {
+                "Speed": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Megafobia": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Drenched": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Waterfall": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bounce ": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bobsleigh": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Dizzy Disk": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                }
+            }
+        },
+        "OfficiaLdarkEviLpak": {
+            "UserId": 162532278,
+            "GroupRank": "Head Operator",
+            "Rides": {
+                "Speed": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Megafobia": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Drenched": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Waterfall": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bounce ": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bobsleigh": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Dizzy Disk": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                }
+            }
         }
     }
 }

@@ -175,9 +175,64 @@
                 }
             }
         },
-        "AndreClark0 ": {
+        "AndreClark0": {
             "UserId": 282629086208,
             "GroupRank": "Management",
+            "Rides": {
+                "Speed": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Megafobia": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Drenched": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Waterfall": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bounce": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Bobsleigh": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                },
+                "Dizzy Disk": {
+                    "Signins": 0,
+                    "Dispatches": 0,
+                    "Riders": 0,
+                    "Faults": 0,
+                    "Time": 0
+                }
+            }
+        },
+        "12bbethangamertv": {
+            "UserId": 1541596280,
+            "GroupRank": "Maintenance",
             "Rides": {
                 "Speed": {
                     "Signins": 0,

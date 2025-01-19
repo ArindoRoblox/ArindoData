@@ -6,16 +6,7 @@
     "StaffMembers": {
         "akramer2k": {
             "UserId": 282663556,
-            "GroupRank": "CastMember",
-            "Rides": {
-                "HyperSpaceMountain": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                }
-            }
+            "GroupRank": "CastMember"
         }
     }
 }

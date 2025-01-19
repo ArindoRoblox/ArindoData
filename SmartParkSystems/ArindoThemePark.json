@@ -9,105 +9,15 @@
     "StaffMembers": {
         "akramer2k": {
             "UserId": 282663556,
-            "GroupRank": "Chief Executive Officer",
-            "Rides": {
-                "RideName1": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName2": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName3": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName4": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                }
-            }
+            "GroupRank": "Chief Executive Officer"
         },
         "Doncena8": {
             "UserId": 1474015231,
-            "GroupRank": "Vice Chief Operating Officer",
-            "Rides": {
-                "RideName1": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName2": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName3": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName4": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                }
-            }
+            "GroupRank": "Vice Chief Operating Officer"
         },
         "auditxx": {
             "UserId": 1546292748,
-            "GroupRank": "Development Team",
-            "Rides": {
-                "RideName1": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName2": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName3": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                },
-                "RideName4": {
-                    "Signins": 0,
-                    "Dispatches": 0,
-                    "Riders": 0,
-                    "Faults": 0,
-                    "Time": 0
-                }
-            }
+            "GroupRank": "Development Team"
         }
     }
 }

@@ -57,25 +57,5 @@
         "Paid": "LifeTime",
         "PaymentPaid": "08/11/24",
         "StartTime": "08/11/24"
-    },
-
-    "UniversalDestinations": {
-        "UserId": 282663556,
-        "IconId": 137286087856104,
-        "BotId": 3,
-        "Node": 1,
-        "Status": "Offline",
-        "Token": true,
-        "ServerManagement": true,
-        "ServerManagementEnabled": false,
-        "RobloxGroupManagement": true,
-        "RobloxGroupManagementEnabled": false,
-        "GiveawaySystem": true,
-        "GiveawaySystemEnabled": false,
-        "ModMailSystem": true,
-        "ModMailSystemEnabled": false,
-        "Paid": "LifeTime",
-        "PaymentPaid": "11/27/24",
-        "StartTime": "11/27/24"
     }
 }
